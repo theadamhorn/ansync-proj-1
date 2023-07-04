@@ -1,0 +1,19 @@
+{
+  "name": "ansync-technical-assignment",
+  "version": "1.0.0",
+  "description": "Ansync Technical Assignment for SWE Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Adam Horn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
